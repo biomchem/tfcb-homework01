@@ -11,8 +11,6 @@
   | images             | 4                            | .jpg       |
   | source_code        | 4                            | .py        |
 <br />
-# Directories
-<br />
 
 ## [Data](data)
 
