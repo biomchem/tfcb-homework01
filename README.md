@@ -2,6 +2,7 @@
 
 # Homework 1 - README.md
 
+
 ## README Contents
 
   | Directory Names    | Number of Files in Directory | File Types |
@@ -9,6 +10,8 @@
   | data               | 2                            | .xlsx, .tsv|
   | images             | 4                            | .jpg       |
   | source_code        | 4                            | .py        |
+<br />
+# Directories
 
 ## [Data](data)
 
@@ -19,5 +22,3 @@
 4. ![pic4](images/casent_0906296_Cataglyphis_fortis_p_1_high.jpg)
 
 ## [Source_Code](source_code) 
-
-  
